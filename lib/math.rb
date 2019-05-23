@@ -1,4 +1,4 @@
-def addition(num1, num2)
+def addition(12)
 end
 
 def subtraction(num1, num2)
